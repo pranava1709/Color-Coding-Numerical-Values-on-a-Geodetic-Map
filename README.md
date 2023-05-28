@@ -1,4 +1,4 @@
-# Color-Coding-a-False-Color-Composite-for-Visulaizing-Numerical-Values-on-a-Geodetic-Map
+# Color-Coding-and-Visulaizing-Numerical-Values-on-a-Geodetic-Map
 
 In Qgis, I designed a map taking the regions of Punjab and Himachal Pradesh. Then, converted the KML to ESRI Shape File.Using AvirisNG Data, the regions were identified, and extracted Polygon Vector Coordinates for around 7 Regions.
 ![Capture](https://github.com/pranava1709/Color-Coding-a-False-Color-Composite-for-Visulaizing-Numerical-Values-on-a-Geodetic-Map/assets/60814171/8002eff4-77a8-4fe5-a246-8db2b5ad355a)
